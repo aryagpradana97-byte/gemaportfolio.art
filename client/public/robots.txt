@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gema.livingstone.id/sitemap.xml
